@@ -35,6 +35,7 @@ We're still cooking it. Stay tuned.
 <br>
 
 ### **Contributors:**
+#### Exco for AY25/26
 
 | Name        | Role               | GitHub                                           |
 |-------------|--------------------|--------------------------------------------------|
